@@ -28,7 +28,7 @@
 4. Open the notebook by clicking it
 5. In the top row, select [Edit] button (pencil icon)
 
-At this point you should notice that rest of the instructions on below are also provided in the notebook itself!
+At this point you should notice that rest of the steps on below are also described in the notebook itself!
 
 6. Open link https://cdsax.cloudant.com/public-samples/test/precipitation.csv to download sample data on your computer
 7. In the top row, select [Find and Add Data] option (files tab will open on the right side)
@@ -45,6 +45,4 @@ At this point you should notice that rest of the instructions on below are also 
    df_data_1.head()
 13. In the notebook menu select Cell > All Output > Clear
 14. In the notebook menu bar there is a Run button, press it to execute the cell your cursor is currently at
-15. Keep pressing the Run button one by one and watch the notebook cells being executed
-
-
+15. Keep pressing the Run button one by one and watch the notebook cells being executed and the data being analyzed
